@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 3rem;
+  background: url('gambar/Master-Plan-Undiksha-2021.jpeg');
+  background-size: cover;
+  display: flex;
+  background-attachment: fixed;
+}
+.iniBanner1 {
+  background-color: rgba(242, 255, 220, 0.534);
+  min-height: 40vh;
+  width: 150%;
+}
+.footer ul a:hover {
+  color: blue !important;
+}
+.dropdown-menu a:hover {
+  color: blue !important;
+}
